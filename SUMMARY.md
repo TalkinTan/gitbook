@@ -9,4 +9,5 @@
 * [第二章](Chapter2/README.md)
 * [第三章](Chapter3/README.md)
 * [第四章](Chapter4/README.md)
+* [Markdown语法手册](附录/语法手册.md)
 
